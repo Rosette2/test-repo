@@ -1,0 +1,1 @@
+This is my second project. I am excited about learning git.
